@@ -1,0 +1,255 @@
+[Root]
+VersionDriverOEMPA=1.1.5.4
+CycleCount=16
+EnableMultiChannel=1
+
+[Cycle:0]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWAcquisitionTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GainAnalog=20.000000 dB
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=1
+
+[Cycle:0\Pulser]
+Element.count=1
+Element=0
+Width.count=1
+Width=0.500000 us
+
+[Cycle:0\Receiver]
+Element.count=1
+Element=0
+StartFirst=0
+Start.count=16
+Start=0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000;0.000000 us
+Decimation=0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+
+[Cycle:1]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:1\Receiver]
+Element.count=1
+Element=1
+
+[Cycle:2]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:2\Receiver]
+Element.count=1
+Element=2
+
+[Cycle:3]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:3\Receiver]
+Element.count=1
+Element=3
+
+[Cycle:4]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:4\Receiver]
+Element.count=1
+Element=4
+
+[Cycle:5]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:5\Receiver]
+Element.count=1
+Element=5
+
+[Cycle:6]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:6\Receiver]
+Element.count=1
+Element=6
+
+[Cycle:7]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:7\Receiver]
+Element.count=1
+Element=7
+
+[Cycle:8]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:8\Receiver]
+Element.count=1
+Element=8
+
+[Cycle:9]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:9\Receiver]
+Element.count=1
+Element=9
+
+[Cycle:10]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:10\Receiver]
+Element.count=1
+Element=10
+
+[Cycle:11]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:11\Receiver]
+Element.count=1
+Element=11
+
+[Cycle:12]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:12\Receiver]
+Element.count=1
+Element=12
+
+[Cycle:13]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:13\Receiver]
+Element.count=1
+Element=13
+
+[Cycle:14]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:14\Receiver]
+Element.count=1
+Element=14
+
+[Cycle:15]
+GainDigital=0.000000 dB
+Range=30.000000 us
+HWReplayTime=2000.000000 us
+PointCount=0
+Rectification=Signed
+FilterIndex=1
+GateCount=0
+BeamCorrection=0.000000 dB
+HWAcquisition=0
+
+[Cycle:15\Receiver]
+Element.count=1
+Element=15

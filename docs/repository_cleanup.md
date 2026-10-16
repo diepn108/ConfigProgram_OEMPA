@@ -1,0 +1,13 @@
+﻿# Repository cleanup and distribution review
+
+See [README](../README.md) for the final source tree, installation, external dependencies and explicit safe test commands. The exact removed generated files and byte counts are in [cleanup_manifest.json](cleanup_manifest.json). Python caches are also removed after validation; they are reproducible interpreter output.
+
+Removed obsolete synthetic GUI/TFM review output, temporary native OBJ/EXP/LIB products and the empty bridge/cl file. Kept the latest disconnected review artifacts locally. No source, tests, original configurations, acquired datasets, historical hardware acceptance/diagnostic evidence or backup_original.txt was deleted. Config/data hashes are verified against a before-cleanup inventory. Ambiguous generated configuration files are retained because they may encode manual experimental settings.
+
+Ignored for Git: Python/environments/caches; IDE/OS state; local secret-file patterns; native generated DLL/EXE/object/link outputs; vendor dll copies; all artifacts and lab data except data/README.md; specifically generated GUI/backend/readback configs; temporary logs/backups. Ignored means retained locally, not deleted. Source/configuration references necessary to build/reproduce behavior remain distributable candidates. All original data stays local, including the real 18-mm experiment and metadata. Transfer approved datasets separately with sidecars.
+
+Removed personal profile-root assumptions from 35 historical diagnostic/generator scripts, using their own repository location instead. Historical AGENTS checkout/interpreter paths use portable placeholders; recorded results/safety facts are preserved. Build scripts discover the compiler and accept documented SDK/runtime overrides. Requirements are pinned to installed tested versions; nothing was installed by this task.
+
+AOS SDK headers/libraries/runtime/manuals are separately licensed external dependencies; their source extracts and vendor DLL copies are not offered for redistribution. Obtain AOS authorization before sharing them. No public source license was invented. Device/network facts remain in AGENTS and warrant audience review. No Git metadata exists here, so neither an existing index nor history could be audited. The source-candidate audit found no selected secret/personal-path patterns; it is not an exhaustive credential audit. Review staged content before creating/pushing a repository. No commit/push occurred.
+
+Timing changes, native deployment caveat and pending manual measurements are documented in [fmc_timing.md](fmc_timing.md). No hardware operation or speed optimization was performed.

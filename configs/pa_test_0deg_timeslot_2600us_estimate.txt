@@ -1,0 +1,39 @@
+[Root]
+VersionDriverOEMPA=1.1.5.4
+CycleCount=1
+
+[Cycle:0]
+GainDigital=0.000000 dB
+BeamCorrection=0.000000 dB
+Start=0.000000 us
+Range=30.000000 us
+TimeSlot=2600.000000 us
+PointCount=0
+CompressionType=Compression
+Rectification=Signed
+FilterIndex=1
+GainAnalog=20.000000 dB
+GateCount=0
+
+[Cycle:0\Pulser]
+WedgeDelay=0.000000 us
+CenterDelay=0.000000 us
+Element.count=16
+Element=0;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15
+Delay.count=16;1
+Delay=0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us
+Width.count=16
+Width=0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us;0.500000 us
+
+[Cycle:0\Receiver]
+WedgeDelay=0.000000 us
+CenterDelay=0.000000 us
+Element.count=16
+Element=0;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15
+Focusing=Standard
+Delay.count=16;1
+Delay=0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us;0.000000 us
+Gain.count=16
+Gain=0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB;0.000000 dB
+FocalTimeOfFlight.count=1
+FocalTimeOfFlight=0.000000 us

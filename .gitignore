@@ -1,0 +1,48 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Editors, OS state and local secrets
+.vscode/
+.idea/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pem
+*.key
+
+# Generated native outputs; keep bridge sources and build recipes
+*.obj
+*.exp
+*.lib
+*.pdb
+*.ilk
+*.exe
+/bridge/*.dll
+/bridge/cl
+
+# Vendor binaries/docs require a separately licensed SDK installation
+/dll/
+
+# Local experiment evidence/data: preserve locally, do not publish by default
+/artifacts/
+/data/*
+!/data/README.md
+
+# Generated configuration output; verified/reference configurations stay included
+/configs/gui_*_config.txt
+/configs/backend_full_test.txt
+/configs/fmc16_generated.txt
+/configs/multichannel*_readback.txt
+/configs/pa_test_30deg_aos_roundtrip.txt
+*.log
+*.tmp
+*.bak

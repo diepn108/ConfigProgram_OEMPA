@@ -1,0 +1,747 @@
+﻿[
+    {
+        "value":  [
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1100x700_Acquisition.png",
+                          "bytes":  36562
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1100x700_Device.png",
+                          "bytes":  35559
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1100x700_Mode_Settings.png",
+                          "bytes":  38458
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1100x700_Mode_Settings_FMC.png",
+                          "bytes":  41375
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1100x700_Mode_Settings_FMC_synthetic_Bscan.png",
+                          "bytes":  58316
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1100x700_Mode_Settings_FMC_synthetic_FMC.png",
+                          "bytes":  55584
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1100x700_Mode_Settings_Phased_Array.png",
+                          "bytes":  39640
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1100x700_Probe.png",
+                          "bytes":  44409
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1300x820_Acquisition.png",
+                          "bytes":  41401
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1300x820_Device.png",
+                          "bytes":  37257
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1300x820_Mode_Settings.png",
+                          "bytes":  39774
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1300x820_Mode_Settings_FMC_synthetic_Bscan.png",
+                          "bytes":  60832
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1300x820_Mode_Settings_FMC_synthetic_FMC.png",
+                          "bytes":  59801
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/1300x820_Probe.png",
+                          "bytes":  46110
+                      },
+                      {
+                          "path":  "artifacts/fmc_first_frame_gui_offline/validation.json",
+                          "bytes":  3139
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1100x700_Acquisition.png",
+                          "bytes":  36555
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1100x700_Device.png",
+                          "bytes":  35551
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1100x700_Mode_Settings.png",
+                          "bytes":  38451
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1100x700_Mode_Settings_FMC.png",
+                          "bytes":  41370
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1100x700_Mode_Settings_FMC_synthetic_Bscan.png",
+                          "bytes":  58309
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1100x700_Mode_Settings_FMC_synthetic_FMC.png",
+                          "bytes":  55582
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1100x700_Mode_Settings_Phased_Array.png",
+                          "bytes":  39634
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1100x700_Probe.png",
+                          "bytes":  44386
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1300x820_Acquisition.png",
+                          "bytes":  41373
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1300x820_Device.png",
+                          "bytes":  37228
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1300x820_Mode_Settings.png",
+                          "bytes":  39736
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1300x820_Mode_Settings_FMC_synthetic_Bscan.png",
+                          "bytes":  60812
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1300x820_Mode_Settings_FMC_synthetic_FMC.png",
+                          "bytes":  59779
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/1300x820_Probe.png",
+                          "bytes":  46086
+                      },
+                      {
+                          "path":  "artifacts/fmc_gui_offline/validation.json",
+                          "bytes":  3139
+                      },
+                      {
+                          "path":  "artifacts/gui_usability_offline/1100x700_Acquisition.png",
+                          "bytes":  36440
+                      },
+                      {
+                          "path":  "artifacts/gui_usability_offline/1100x700_Device.png",
+                          "bytes":  28308
+                      },
+                      {
+                          "path":  "artifacts/gui_usability_offline/1100x700_Mode_Settings.png",
+                          "bytes":  38337
+                      },
+                      {
+                          "path":  "artifacts/gui_usability_offline/1100x700_Mode_Settings_FMC.png",
+                          "bytes":  41250
+                      },
+                      {
+                          "path":  "artifacts/gui_usability_offline/1100x700_Mode_Settings_Phased_Array.png",
+                          "bytes":  39518
+                      },
+                      {
+                          "path":  "artifacts/gui_usability_offline/1100x700_Probe.png",
+                          "bytes":  44272
+                      },
+                      {
+                          "path":  "artifacts/gui_usability_offline/1300x820_Acquisition.png",
+                          "bytes":  41243
+                      },
+                      {
+                          "path":  "artifacts/gui_usability_offline/1300x820_Device.png",
+                          "bytes":  36450
+                      },
+                      {
+                          "path":  "artifacts/gui_usability_offline/1300x820_Mode_Settings.png",
+                          "bytes":  39620
+                      },
+                      {
+                          "path":  "artifacts/gui_usability_offline/1300x820_Probe.png",
+                          "bytes":  45954
+                      },
+                      {
+                          "path":  "artifacts/gui_usability_offline/validation.json",
+                          "bytes":  2269
+                      },
+                      {
+                          "path":  "artifacts/phase3_window/acquisition_bscan.png",
+                          "bytes":  42965
+                      },
+                      {
+                          "path":  "artifacts/phase3_window/device_ascan.png",
+                          "bytes":  36436
+                      },
+                      {
+                          "path":  "artifacts/phase3_window/pa_preview.png",
+                          "bytes":  62466
+                      },
+                      {
+                          "path":  "artifacts/phase3_window/pa_preview_minimum.png",
+                          "bytes":  53334
+                      },
+                      {
+                          "path":  "artifacts/phase3_window/probe_fmc.png",
+                          "bytes":  38237
+                      },
+                      {
+                          "path":  "artifacts/phase3_window/tfm_minimum.png",
+                          "bytes":  18643
+                      },
+                      {
+                          "path":  "artifacts/phase3_window/validation.json",
+                          "bytes":  3423
+                      },
+                      {
+                          "path":  "artifacts/phase4_tfm/linear/provenance.json",
+                          "bytes":  2056
+                      },
+                      {
+                          "path":  "artifacts/phase4_tfm/linear/tfm_experimental.png",
+                          "bytes":  86334
+                      },
+                      {
+                          "path":  "artifacts/phase4_tfm/linear/tfm_raw.npz",
+                          "bytes":  327546
+                      },
+                      {
+                          "path":  "artifacts/phase4_tfm/nearest/provenance.json",
+                          "bytes":  2057
+                      },
+                      {
+                          "path":  "artifacts/phase4_tfm/nearest/tfm_experimental.png",
+                          "bytes":  78662
+                      },
+                      {
+                          "path":  "artifacts/phase4_tfm/nearest/tfm_raw.npz",
+                          "bytes":  327546
+                      },
+                      {
+                          "path":  "artifacts/phase4_window/tfm_absolute.png",
+                          "bytes":  67280
+                      },
+                      {
+                          "path":  "artifacts/phase4_window/tfm_db.png",
+                          "bytes":  76676
+                      },
+                      {
+                          "path":  "artifacts/phase4_window/tfm_empty.png",
+                          "bytes":  49474
+                      },
+                      {
+                          "path":  "artifacts/phase4_window/tfm_minimum.png",
+                          "bytes":  62209
+                      },
+                      {
+                          "path":  "artifacts/phase4_window/tfm_stale.png",
+                          "bytes":  63459
+                      },
+                      {
+                          "path":  "artifacts/phase4_window/validation.json",
+                          "bytes":  1163
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/current_db_1100.png",
+                          "bytes":  58324
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/current_normalized_1300.png",
+                          "bytes":  63992
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/current_settings_1100.png",
+                          "bytes":  66958
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/current_settings_scrolled_1100.png",
+                          "bytes":  62738
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/empty_1300.png",
+                          "bytes":  54069
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/new_fmc_stale_1100.png",
+                          "bytes":  61283
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/offline_db_1100.png",
+                          "bytes":  62526
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/offline_settings_1300.png",
+                          "bytes":  90885
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/parameter_stale_1100.png",
+                          "bytes":  59977
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/synthetic_fmc.npy",
+                          "bytes":  768384
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/synthetic_fmc.npy.json",
+                          "bytes":  267149
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/synthetic_tfm_result.npz",
+                          "bytes":  1086688
+                      },
+                      {
+                          "path":  "artifacts/tfm_plot_layout_offline_20261015/validation.json",
+                          "bytes":  4824
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/current_db_1100.png",
+                          "bytes":  57177
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/current_normalized_1300.png",
+                          "bytes":  64365
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/current_settings_1100.png",
+                          "bytes":  65959
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/current_settings_scrolled_1100.png",
+                          "bytes":  61497
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/empty_1300.png",
+                          "bytes":  53751
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/new_fmc_stale_1100.png",
+                          "bytes":  60564
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/offline_db_1100.png",
+                          "bytes":  62733
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/offline_settings_1300.png",
+                          "bytes":  90140
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/parameter_stale_1100.png",
+                          "bytes":  59079
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/synthetic_fmc.npy",
+                          "bytes":  768384
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/synthetic_fmc.npy.json",
+                          "bytes":  267149
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/synthetic_tfm_result.npz",
+                          "bytes":  1086848
+                      },
+                      {
+                          "path":  "artifacts/tfm_production_offline_20261015/validation.json",
+                          "bytes":  1524
+                      },
+                      {
+                          "path":  "bridge/oempa_bridge.exp",
+                          "bytes":  7180
+                      },
+                      {
+                          "path":  "bridge/oempa_bridge.lib",
+                          "bytes":  13124
+                      },
+                      {
+                          "path":  "bridge/oempa_bridge.obj",
+                          "bytes":  246066
+                      },
+                      {
+                          "path":  "tests/callback_order_native.obj",
+                          "bytes":  304752
+                      },
+                      {
+                          "path":  "tests/fmc_first_frame_native.obj",
+                          "bytes":  318780
+                      },
+                      {
+                          "path":  "bridge/cl",
+                          "bytes":  0
+                      }
+                  ],
+        "Count":  92
+    },
+    {
+        "path":  "__pycache__/gui.cpython-314.pyc",
+        "bytes":  84779
+    },
+    {
+        "path":  "__pycache__/main.cpython-314.pyc",
+        "bytes":  339
+    },
+    {
+        "path":  "oempa/__pycache__/acquisition.cpython-314.pyc",
+        "bytes":  11530
+    },
+    {
+        "path":  "oempa/__pycache__/api.cpython-314.pyc",
+        "bytes":  51266
+    },
+    {
+        "path":  "oempa/__pycache__/ascan_config.cpython-314.pyc",
+        "bytes":  7715
+    },
+    {
+        "path":  "oempa/__pycache__/bscan.cpython-314.pyc",
+        "bytes":  3762
+    },
+    {
+        "path":  "oempa/__pycache__/callback_order.cpython-314.pyc",
+        "bytes":  3196
+    },
+    {
+        "path":  "oempa/__pycache__/config.cpython-314.pyc",
+        "bytes":  9184
+    },
+    {
+        "path":  "oempa/__pycache__/cscan.cpython-314.pyc",
+        "bytes":  4934
+    },
+    {
+        "path":  "oempa/__pycache__/dataset.cpython-314.pyc",
+        "bytes":  21989
+    },
+    {
+        "path":  "oempa/__pycache__/driver.cpython-314.pyc",
+        "bytes":  8014
+    },
+    {
+        "path":  "oempa/__pycache__/fmc.cpython-314.pyc",
+        "bytes":  10109
+    },
+    {
+        "path":  "oempa/__pycache__/fmc_acceptance.cpython-314.pyc",
+        "bytes":  11479
+    },
+    {
+        "path":  "oempa/__pycache__/focal_law.cpython-314.pyc",
+        "bytes":  5722
+    },
+    {
+        "path":  "oempa/__pycache__/gui_backend.cpython-314.pyc",
+        "bytes":  26847
+    },
+    {
+        "path":  "oempa/__pycache__/hardware_state.cpython-314.pyc",
+        "bytes":  34714
+    },
+    {
+        "path":  "oempa/__pycache__/pa_config.cpython-314.pyc",
+        "bytes":  8346
+    },
+    {
+        "path":  "oempa/__pycache__/probe.cpython-314.pyc",
+        "bytes":  3269
+    },
+    {
+        "path":  "oempa/__pycache__/scan_grid.cpython-314.pyc",
+        "bytes":  9311
+    },
+    {
+        "path":  "oempa/__pycache__/scan_session.cpython-314.pyc",
+        "bytes":  7963
+    },
+    {
+        "path":  "oempa/__pycache__/tfm.cpython-314.pyc",
+        "bytes":  27028
+    },
+    {
+        "path":  "oempa/__pycache__/timing.cpython-314.pyc",
+        "bytes":  5140
+    },
+    {
+        "path":  "oempa/__pycache__/verified_fmc.cpython-314.pyc",
+        "bytes":  5770
+    },
+    {
+        "path":  "oempa/__pycache__/verified_pa.cpython-314.pyc",
+        "bytes":  2200
+    },
+    {
+        "path":  "oempa/__pycache__/__init__.cpython-314.pyc",
+        "bytes":  153
+    },
+    {
+        "path":  "tests/__pycache__/test_acquisition_backend.cpython-314.pyc",
+        "bytes":  3616
+    },
+    {
+        "path":  "tests/__pycache__/test_api.cpython-314.pyc",
+        "bytes":  2080
+    },
+    {
+        "path":  "tests/__pycache__/test_bscan.cpython-314.pyc",
+        "bytes":  2777
+    },
+    {
+        "path":  "tests/__pycache__/test_config_builder.cpython-314.pyc",
+        "bytes":  3043
+    },
+    {
+        "path":  "tests/__pycache__/test_cscan.cpython-314.pyc",
+        "bytes":  2994
+    },
+    {
+        "path":  "tests/__pycache__/test_driver.cpython-314.pyc",
+        "bytes":  2548
+    },
+    {
+        "path":  "tests/__pycache__/test_fmc_backend.cpython-314.pyc",
+        "bytes":  6251
+    },
+    {
+        "path":  "tests/__pycache__/test_focal_law.cpython-314.pyc",
+        "bytes":  4191
+    },
+    {
+        "path":  "tests/__pycache__/test_full_backend.cpython-314.pyc",
+        "bytes":  9520
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_acquisition_0deg.cpython-314.pyc",
+        "bytes":  9258
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_acquisition_2600us.cpython-314.pyc",
+        "bytes":  15183
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_ascan_config_diag.cpython-314.pyc",
+        "bytes":  6186
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_callback_integrity_2600us.cpython-314.pyc",
+        "bytes":  35818
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_config.cpython-314.pyc",
+        "bytes":  3625
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_decimation_stage1.cpython-314.pyc",
+        "bytes":  17363
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_decimation_stage2.cpython-314.pyc",
+        "bytes":  8602
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_focal_parser.cpython-314.pyc",
+        "bytes":  8070
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_focal_setter_diag.cpython-314.pyc",
+        "bytes":  3300
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_hardware_0deg.cpython-314.pyc",
+        "bytes":  7586
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_hardware_2600us.cpython-314.pyc",
+        "bytes":  11191
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_hardware_delays.cpython-314.pyc",
+        "bytes":  6482
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_load_diag.cpython-314.pyc",
+        "bytes":  4775
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_parser.cpython-314.pyc",
+        "bytes":  1973
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_receive_diag.cpython-314.pyc",
+        "bytes":  7460
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_single_rx_stage1.cpython-314.pyc",
+        "bytes":  17808
+    },
+    {
+        "path":  "tests/__pycache__/test_pa_single_rx_stage2.cpython-314.pyc",
+        "bytes":  8226
+    },
+    {
+        "path":  "tests/__pycache__/test_pulser_power.cpython-314.pyc",
+        "bytes":  1766
+    },
+    {
+        "path":  "tests/__pycache__/test_scan_grid.cpython-314.pyc",
+        "bytes":  4480
+    },
+    {
+        "path":  "tests/__pycache__/test_scan_session.cpython-314.pyc",
+        "bytes":  4653
+    },
+    {
+        "path":  "tests/__pycache__/test_tfm_offline.cpython-314.pyc",
+        "bytes":  33692
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_backend_offline.cpython-314.pyc",
+        "bytes":  52809
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_callback_order_offline.cpython-314.pyc",
+        "bytes":  9334
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_fmc_first_frame.cpython-314.pyc",
+        "bytes":  13129
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_fmc_inspection.cpython-314.pyc",
+        "bytes":  8123
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_fmc_provenance.cpython-314.pyc",
+        "bytes":  27300
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_gui_offline.cpython-314.pyc",
+        "bytes":  24456
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_native_wrapper_offline.cpython-314.pyc",
+        "bytes":  21577
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_phase1.cpython-314.pyc",
+        "bytes":  30390
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_phase2.cpython-314.pyc",
+        "bytes":  34027
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_phase3.cpython-314.pyc",
+        "bytes":  86245
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_single_ascan.cpython-314.pyc",
+        "bytes":  18918
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_stage3d_offline.cpython-314.pyc",
+        "bytes":  10767
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_stage3d_order_evidence.cpython-314.pyc",
+        "bytes":  6757
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_tfm_offline.cpython-314.pyc",
+        "bytes":  43827
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_timing.cpython-314.pyc",
+        "bytes":  7914
+    },
+    {
+        "path":  "tests/__pycache__/test_ui_usability.cpython-314.pyc",
+        "bytes":  7241
+    },
+    {
+        "path":  "tests/__pycache__/tfm_synthetic.cpython-314.pyc",
+        "bytes":  3104
+    },
+    {
+        "path":  "tests/__pycache__/ui_readback_fakes.cpython-314.pyc",
+        "bytes":  5653
+    },
+    {
+        "path":  "tools/__pycache__/diagnose_multihw_readback.cpython-314.pyc",
+        "bytes":  7287
+    },
+    {
+        "path":  "tools/__pycache__/reconstruct_tfm_offline.cpython-314.pyc",
+        "bytes":  8501
+    },
+    {
+        "path":  "tools/__pycache__/validate_gui_usability_offline.cpython-314.pyc",
+        "bytes":  14292
+    },
+    {
+        "path":  "tools/__pycache__/validate_phase3_window.cpython-314.pyc",
+        "bytes":  13665
+    },
+    {
+        "path":  "tools/__pycache__/validate_phase4_window.cpython-314.pyc",
+        "bytes":  12887
+    },
+    {
+        "path":  "tools/__pycache__/validate_phase5_stage1.cpython-314.pyc",
+        "bytes":  14088
+    },
+    {
+        "path":  "tools/__pycache__/validate_phase5_stage2.cpython-314.pyc",
+        "bytes":  21980
+    },
+    {
+        "path":  "tools/__pycache__/validate_phase5_stage3_acquisition.cpython-314.pyc",
+        "bytes":  47048
+    },
+    {
+        "path":  "tools/__pycache__/validate_phase5_stage3_preflight.cpython-314.pyc",
+        "bytes":  29075
+    },
+    {
+        "path":  "tools/__pycache__/validate_tfm_production_offline.cpython-314.pyc",
+        "bytes":  24916
+    },
+    {
+        "path":  "ui/__pycache__/controller.cpython-314.pyc",
+        "bytes":  11383
+    },
+    {
+        "path":  "ui/__pycache__/diagnostics.cpython-314.pyc",
+        "bytes":  2550
+    },
+    {
+        "path":  "ui/__pycache__/fmc_inspection.cpython-314.pyc",
+        "bytes":  3414
+    },
+    {
+        "path":  "ui/__pycache__/layout.cpython-314.pyc",
+        "bytes":  5629
+    },
+    {
+        "path":  "ui/__pycache__/presentation.cpython-314.pyc",
+        "bytes":  2492
+    },
+    {
+        "path":  "ui/__pycache__/setup_panel.cpython-314.pyc",
+        "bytes":  15540
+    },
+    {
+        "path":  "ui/__pycache__/state.cpython-314.pyc",
+        "bytes":  15253
+    },
+    {
+        "path":  "ui/__pycache__/tfm_workspace.cpython-314.pyc",
+        "bytes":  40542
+    },
+    {
+        "path":  "ui/__pycache__/workspace.cpython-314.pyc",
+        "bytes":  9660
+    },
+    {
+        "path":  "ui/__pycache__/__init__.cpython-314.pyc",
+        "bytes":  189
+    }
+]

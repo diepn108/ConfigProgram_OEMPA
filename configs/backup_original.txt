@@ -1,0 +1,39 @@
+[Root]
+VersionDriverOEMPA=1.1.5.4
+CycleCount=1
+
+[Cycle:0]
+GainDigital=0.000000 dB
+BeamCorrection=0.000000 dB
+Start=0.000000 us
+Range=30.000000 us
+TimeSlot=2000.000000 us
+PointCount=3001
+CompressionType=Compression
+Rectification=Signed
+FilterIndex=1
+GainAnalog=20.000000 dB
+GateCount=0
+
+[Cycle:0\Pulser]
+WedgeDelay=0.000000 us
+CenterDelay=0.000000 us
+Element.count=1
+Element=0
+Delay.count=1;1
+Delay=0.000000 us
+Width.count=1
+Width=0.500000 us
+
+[Cycle:0\Receiver]
+WedgeDelay=0.000000 us
+CenterDelay=0.000000 us
+Element.count=1
+Element=0
+Focusing=Standard
+Delay.count=1;1
+Delay=0.000000 us
+Gain.count=1
+Gain=0.000000 dB
+FocalTimeOfFlight.count=1
+FocalTimeOfFlight=0.000000 us
